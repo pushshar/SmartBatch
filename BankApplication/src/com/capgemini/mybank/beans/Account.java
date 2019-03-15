@@ -19,6 +19,7 @@ public class Account {
 	}
 	public void setAmount(int amount) {
 		this.amount = amount;
+		System.out.println("life is mast");
 	}
 	
 	
