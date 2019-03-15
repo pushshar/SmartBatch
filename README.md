@@ -1,3 +1,3 @@
 # SmartBatch
 
-i m the part of smart batch
+i m the part of smart batch. 
